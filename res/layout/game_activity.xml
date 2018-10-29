@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/mainLayout"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/main_background">
+
+
+        <TextView
+            android:id="@+id/guessed_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/guessed"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/numOfGuessesTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:text="0"
+            android:textColor="@color/black"
+            android:textSize="35dp"
+            android:textStyle="bold"/>
+
+        <RelativeLayout
+            android:id="@+id/container"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="30dp">
+            <ProgressBar
+                android:id="@+id/circularProgressBar"
+                android:layout_centerInParent="true"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:indeterminate="false"
+                android:max="60"
+                android:progress="0"
+                android:progressDrawable="@drawable/progressbar" />
+            <TextView
+                android:id="@+id/progressBarText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="60" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/card"
+            android:layout_width="150dp"
+            android:layout_height="240dp"
+            android:background="@drawable/word_card"
+            android:text="@string/startGame"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="30dp"/>
+
+    <LinearLayout
+        android:id="@+id/skippedLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/numOfSkipped"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="0"
+            android:textColor="@color/black"
+            android:textSize="35dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/skipped_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/skipped"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</FrameLayout>

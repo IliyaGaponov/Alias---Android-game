@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="easyDictHe">
+        <item>אבטיח</item><item>אגודל</item><item>אוזן</item><item>אוטובוס</item><item>אוניברסיטה</item><item>אופניים</item><item>כלב</item>
+        <item>פארק</item><item>מטוס</item> <item>כרית</item> <item>מעגל</item>
+        <item>כדורסל</item> <item>שינה</item> <item>מצלמה</item> <item>קנגורו</item> <item>זרוע</item> <item>תפילה</item>
+        <item>פיל</item> <item>מצמוץ</item> <item>בובה</item>  <item>עכביש</item> <item>צבע</item> <item>בלון</item> <item>ספר</item>
+        <item>משקפיים</item><item>עיטוש</item> <item>פה</item><item>כדורגל</item> <item>טלפון</item>
+        <item>חזיר</item> <item>גל</item> <item>דלת</item> <item>זנב</item> <item>צב</item> <item>תינוק</item> <item>מכונית</item> <item>קונוס</item>
+        <item>קרח</item> <item>קרם</item> <item>משקה</item> <item>לחי</item> <item>ציפור</item> <item>בייסבול</item> <item>לחייך</item>
+        <item>ראש</item> <item>רובוט</item> <item>כיסא</item> <item>אליגטור</item> <item>עוף</item> <item>כריש</item>
+        <item>דלג</item> <item>ריקוד</item> <item>קלאס</item> <item>יתוש</item> <item>מברשת שיניים</item> <item>טבעת</item> <item>חתול</item>
+        <item>שמש</item> <item>גביע</item> <item>רוח רפאים</item> <item>פרח</item> <item>פאי</item> <item>פרה</item> <item>בננה</item>
+        <item>פתית שלג</item> <item>באג</item> <item>צנצנת</item> <item>נחש</item> <item>אור</item> <item>עץ</item> <item>שפתיים</item>
+        <item>אפל</item> <item>שקופית</item> <item>גרביים</item><item>סווינג</item> <item>מעיל</item>
+        <item>נעל</item> <item>מים</item> <item>לב</item> <item>כובע</item> <item>אוקיינוס</item> <item>עפיפון</item>
+        <item>חלב</item> <item>ברווז</item> <item>עיניים</item> <item>סקייטבורד</item>
+        <item>ציפור</item> <item>ילד</item> <item>אפל</item> <item>אדם</item> <item>ילדה</item> <item>עכבר</item> <item>כדור</item>
+        <item>בית</item> <item>כוכב</item> <item>אף</item> <item>מיטה</item> <item>לווייתן</item> <item>ג'קט</item> <item>חולצה</item>
+        <item>היפופוטם</item> <item>חוף</item> <item>ביצה</item> <item>פנים</item> <item>קוקי</item> <item>גבינה</item> <item>קרח</item>
+        <item>קרם</item> <item>חרוט</item> <item>תוף</item> <item>מעגל</item> <item>כפית</item> <item>תולעת</item> <item>עכביש</item> <item>אינטרנט</item>
+        <item>גשר</item> <item>עצם</item> <item>ענבים</item> <item>מדוזה</item> <item>באני</item> <item>משאית</item>
+        <item>דשא</item> <item>הדלת</item> <item>קוף</item> <item>עכביש</item> <item>לחם</item> <item>אוזניים</item> <item>קערה</item> <item>צמיד</item>
+        <item>אליגטור</item> <item>בת</item> <item>שעון</item> <item>סוכריה על מקל</item> <item>הירח</item> <item>בובה</item> <item>כתום</item>
+        <item>האוזן</item> <item>כדורסל</item> <item>אופניים</item> <item>מטוס</item> <item>עט</item> <item>מודד קטן</item> <item>קונכיות</item>
+        <item>רקטה</item> <item>ענן</item> <item>דוב</item> <item>תירס</item> <item>עוף</item> <item>הארנק</item> <item>משקפיים</item>
+        <item>רחובות</item> <item>גזר</item> <item>צב</item> <item>עיפרון</item> <item>סוס</item> <item>דינוזאור</item> <item>הראש</item> <item>המנורה</item>
+        <item>שלג</item> <item>נמלה</item> <item>ג'ירף</item> <item>הקאפקייקס</item> <item>כיסא</item> <item>עלה</item> <item>קומותיים</item> <item>מיטה</item> <item>חילזון</item>
+        <item>התינוק</item> <item>בלון</item> <item>אוטובוס</item> <item>דובדבן</item> <item>סרטנים</item> <item>כדורגל</item> <item>סניף</item> <item>רובוט</item>
+        <item>סוס</item> <item>הדלת</item> <item>השיר</item> <item>טיול</item> <item>עמוד השדרה</item> <item>פצצה</item> <item>עגול</item>
+        <item> אוצר</item> <item>אשפה</item> <item>פארק</item> <item>הפיראטים</item> <item>הסקי</item> <item>המדינה</item> <item>לשרוק</item> <item>ארמון</item> <item>בייסבול</item>
+        <item>פחם</item> <item>המלכה</item> <item>דומינו</item> <item>תמונה</item> <item>במחשב</item> <item> הוקי</item> <item>מטוסי</item> <item>הכלב</item> <item>מלח</item> <item>פלפל</item> <item>חם</item> <item>מפתח</item>
+        <item>iPad</item> <item>מקצף</item> <item>צפרדע</item> <item>מכסחת דשא</item> <item>המזרן</item> <item>סבבת</item> <item>עוגת</item> <item>קרקס</item> <item>סוללה</item>
+        <item>הדוור</item> <item>קאובוי</item> <item>הסיסמה</item> <item>אופניים</item> <item>סקייט</item> <item>חשמל</item> <item>גנב</item> <item>קומקום</item>
+        <item>עמוק</item> <item>האביב</item> <item>טבע </item> <item>רדוד</item> <item>טוסט</item> <item> מחוץ</item> <item>אמריקה</item> <item>רולר</item> <item>זנגביל</item>
+        <item>אדם</item> <item>חצי</item> <item> חילוף</item> <item>שעווה</item> <item>אור</item> <item>הנורה</item> <item>ברווזן</item> <item>מוסיקה</item>
+        <item>מפרש</item> <item>מוח</item> <item>יום הולדת</item> <item>עוגה</item> <item>חצאית</item> <item>ברך</item> <item>אננס</item>
+        <item>ממטרה</item> <item>כסף</item> <item>סליל</item> <item>מגדלור</item> <item>הספייר</item> <item>הפנים</item> <item>חליל</item> <item>השטיח</item> <item>שלג</item> <item>הארנק</item> <item>ינשוף</item> <item>שער</item> <item> המזוודה</item>
+        <item>קיבה</item> <item>מלונה</item> <item>פיג'מה</item> <item>אמבטיה</item> <item>סולם</item> <item>אפרסק</item> <item>עיתון</item> <item>השקיה</item>
+        <item>ספר</item> <item>ביבר</item><item>צ'יפס</item> <item>כוורת</item> <item>חוף</item> <item>אומן</item>
+        <item>התורן</item> <item>המצלמה</item> <item>שיער</item> <item>מייבש</item> <item>פטריות</item>
+        <item> הבוהן</item> <item>בייגלה</item> <item>טלוויזיה</item> <item>כסת</item> <item>גיר</item> <item>דולר</item> <item>סודה</item> <item>צ'ין</item>
+        <item> הנדנדה</item> <item>גן</item> <item>כרטיס</item> <item>אתחול</item> <item>צ'לו</item> <item>גשם</item> <item>צדפה</item> <item>שקנאי</item>
+        <item>הקשת</item>   <item>שמח</item> <item>אגרוף</item> <item>הבסיס</item> <item>סערה </item> <item> כפפה</item> <item>מכני</item> <item>מסמר</item>
+        <item>כבשים</item> <item>נוגים</item> <item>קוקוס</item> <item>מיטת תינוק</item> <item>היפופוטם</item>
+        <item>טבעת</item> <item>  נדנדה</item> <item>צלחת</item> <item>דיג</item> <item>מוט</item> <item>קלאס</item> <item>פעמון</item> <item>פלפל</item>
+        <item>    החזית</item> <item>המרפסת</item> <item>הלחי</item> <item>וידאו</item> <item>מצלמה</item> <item>שטיפת</item>    <item>המכונה</item>
+        <item>  טלפון</item> <item><item>כלי כסף</item> <item>אסם</item> <item>פתית שלג</item> <item>סינר</item> <item>פנס</item> <item>מאפין</item>
+        <item>חמניות</item> <item>חצאית</item> <item>כובע</item></item> <item>  שחייה</item> <item>בריכה</item> <item>שן-פיל</item> <item>צנון</item>
+        <item>בוטנים</item> <item>סליל</item> <item>הפודל</item> <item>  תפוחי אדמה</item> <item>הפנים</item> <item>כריש</item> <item>פאנג</item> <item>שלג</item>
+        <item>המותניים</item> <item>כפית</item> <item>שער</item> <item>בקבוק</item> <item>דואר</item> <item>כבשים</item> <item>לובסטר</item> <item>קרח</item>
+        <item>  עריסה</item> <item>דשא</item> <item>מכסחת בועה</item> <item>נדנדה</item> <item>עיפרון</item> <item>צ'יזבורגר</item> <item>קלאס</item> <item>נדנדה</item>
+        <item>כיסא</item> <item>פינתי</item> <item>הלחי</item> <item>פופקורן</item> <item>   טלפון</item> <item>עמוד השדרה</item> <item>פתית שלג</item> שלי <item>יו-יו</item>
+        <item>סוסון ים</item> <item>דלפק</item> <item>  אוהב</item> <item>מתוקה</item> <item>הדואר</item> <item>ארוחת ערב</item>. <item>רוז</item> <item>   אני אוהב אותך</item>
+        <item>ידידות</item> <item>שירים</item> <item>כרטיס</item> <item>תחרה</item> <item>שלג</item> <item>ולנטיין הקדוש</item><item>    מתנה</item>
+        <item>תכשיטים</item> <item>חיבוקים</item> <item>ורוד</item> <item>שמח</item> <item>קופידון</item> <item>אדום</item> <item>סוכריה על מקל</item> <item><item>הלב</item>
+        <item>פרחים</item> <item>ממתקים</item> <item>זוגות</item> <item>נשיקות</item></item> <item>  יהלום</item> <item>מסעדת</item> <item>יונה</item> <item>בפברואר</item>
+        <item>שוקולד</item> <item>רומיאו</item> <item>   טובא</item> <item>זמר</item> <item>גזע</item> <item>ממתקים</item> <item>סטודנט</item> <item>היום</item>
+        <item>לקפוץ</item> <item> כואב</item> <item>כביסה</item> <item>כחול</item> <item>עצוב</item> <item>גיטרה</item> <item>הישן</item> <item>ספורטאי</item> <item>הלילה</item>
+        <item>   הברך</item> <item>חתונה</item> <item>בת</item> <item>לקנות</item> <item>זבל</item> <item>יכול</item> <item>נמש</item> <item>זרם</item>
+        <item>מגב</item> <item>להניף</item> <item>רדיו</item> <item>שקטה</item> <item>ריבוע</item> <item>שני</item> <item>  בית הספר</item>
+        <item>אוטובוס</item> <item>השיר</item> <item>מפחד</item> <item>לצייר</item> <item>סוג</item> <item>קצר</item> <item>מדרגות</item> <item>ישן</item>
+        <item>אופנוע</item> <item>צהריים</item> <item>ערפל</item> <item>חדשים</item> <item>קש</item> <item>דחיפה</item> <item>  מלוכלך</item> <item>ילדה</item>
+        <item>מסוק</item> <item>מגרש משחקים</item> <item>נמר</item> <item>טורנדו</item> <item>ליים</item> <item> הרגל</item> <item>מלח</item> <item>הקרסול</item>
+        <item>העוגה</item> <item>השרוך</item> <item>גלגלים</item> <item>להתראות</item> <item>תולעת</item> <item> הגבה</item>
+        <item>אריה</item> <item>אגס</item> <item>לדבר</item> <item>משקפיים</item> <item>כפית</item> <item>חולצה</item> <item>תיבת</item> <item>רוח</item> <item>ירוק</item>
+        <item>זאב</item> <item>השלג</item> <item>על הספה</item> <item>לתקן את</item> <item>הפנס</item> <item>הנסיכה</item> <item> שבור</item>
+        <item>מילון</item> <item>צלחת</item> <item>השכן</item> <item>רולר</item> <item>רכבת</item> <item>גשר</item> <item> תיבת דואר</item> <item>פרח</item>
+        <item>לבן</item> <item>ארמון חול</item> <item>משולש</item> <item>רעם</item> <item>מפלצת</item> <item> רב</item> <item>לטאה</item> <item>קפיטריה</item>
+        <item>מוסיקה</item> <item>אש</item> <item>מנוע</item> <item>כוכב</item> <item>לבשל</item> <item> עייף</item> <item>איטי</item> <item>החיצוני</item>
+        <item>שטח</item> <item>אמיצה</item> <item>הסוס</item> <item>האחיינית</item> <item>פיל</item> <item>   טרקטור</item>
+        <item>מעלית</item> <item>אור</item> <item>הנורה</item> <item>ברוקולי</item> <item>שיעול</item> <item>הלב</item> <item>מחשבון</item> <item> מקל</item>
+        <item>החתול</item> <item>עץ</item> <item>הבית</item> <item>אבטיח</item> <item>שוקולד</item> <item>מהיר</item>  <item>רעב</item>
+        <item>   אדום</item> <item>ללעוס</item> <item>פלפל</item> <item>חולה</item> <item>מצרים</item> <item>סקי</item> <item>בהאמה</item> <item>מטען</item>
+        <item> אירופה</item> <item>חוף</item> <item>בית</item> <item>אריזה</item> <item>קמפינג</item> <item>קולורדו</item> <item>  נהר</item> <item>התעופה</item>
+        <item>הקיץ</item>  <item>קנדה</item> <item>קרם הגנה</item> <item>דיסנילנד</item> <item>דרכון</item> <item>  אריזונה</item>
+        <item>תיירות</item> <item>הנופש</item> <item>מים</item> <item>פארק</item> <item>המכס</item> <item>אמריקה</item> <item> אפריקה</item> <item>התיירות</item>
+        <item>אגם</item> <item>שמש</item> <item>מזג האוויר</item> <item>האי</item> <item>לשדה התעופה</item> <item> אבטחה</item> <item>שיוט</item>
+        <item>הספינה</item> <item>מקסיקו</item> <item>ישן</item> <item>  תיק</item> <item>מלון</item> <item>הרים</item> <item>אופני</item> <item>פריז</item> <item>כביש</item>
+        <item> טיול</item> <item>ברמודה</item> <item>ג'מייקה</item> <item>ספרד</item> <item>סנובורד</item> <item>אומרים "צ'יז"</item> <item> מפה</item> <item>רכבות</item>
+        <item><item>אלסקה</item> <item>המצלמה</item> <item>פארק</item> <item>לאומי</item> <item>פארק</item></item> <item>  סיור</item> <item>מדריך</item>
+        <item>להירגע</item> <item>דלאוור</item> <item>מטוס</item> <item>באג</item> <item>ספריי</item> <item>הנוף</item>
+        <item>  חניית ביניים</item> <item>פאני</item> <item>pack</item> <item>נהר</item> <item>רפטינג</item> <item>החוף</item> <item>הכדור</item> <item>קיאק</item>
+        <item> סרטים</item> <item>טיולי הליכה</item> <item>לטייל</item> <item>גלשן</item> <item>בריכת שחייה</item> <item>   ציפור</item> <item>צופה</item> <item>ברודווי</item>
+        <item>אולפני יוניברסל</item> <item>משקפת</item> <item>קניות</item> <item>רומא</item> <item> מיין</item> <item><item>אופניים</item> <item>שלג</item> <item>חרוט</item>
+        <item>חופשה</item> <item>הטיילת</item> <item>חברת התעופה</item></item> <item>  עצלן</item> <item>פלורידה</item> <item>טקסס</item> <item>דרום דקוטה</item>
+        <item>איסטנבול</item> <item>הגרנד קניון</item> <item> יוני</item> <item>החג</item> <item>ספארי</item> <item>לאס וגאס</item> <item>המזוודה</item> <item>טורקיה</item>
+        <item>לתלות</item> <item>דאון</item> <item>   הראשון</item> <item>מחלקה</item> <item>הדירה</item> <item>הדבש</item> <item>צלילה</item> <item>צלילה</item>
+        <item>סין</item> <item> אפריקה</item> <item>איטליה</item> <item>הוואי</item> <item>המשפחה</item> <item>איחוד</item> <item>לונדון</item> <item>  טרק</item>
+        <item>אירלנד</item> <item>קליפורניה</item> <item>שוויץ</item> <item>ביולי</item> <item>טוקיו</item> <item>  הר</item> <item>ראשמור</item> <item>אלמוגים</item>
+        <item>שונית</item> <item>הקיץ</item> <item>צרפת</item> <item>סן פרנסיסקו</item> <item>  אתונה</item> <item>וינה</item> <item>אנגליה</item> <item>וושינגטון</item>
+        <item>הכסף</item> <item>חגורה</item> <item>לוס אנג'לס</item> <item> בוסטון</item> <item>המפלגה</item> <item>גור</item> <item>סמור</item> <item>ינשוף</item>
+        <item>סנאי</item> <item>כבש</item> <item>נמר</item>   <item>לעצמכם</item> <item>שקנאי</item> <item>קוף</item> <item>כבשים</item> <item>הכלב</item>
+        <item>חגלה</item> <item>קיפוד</item> <item>  פרה</item> <item>עכביש</item> <item>צב</item> <item>תנין</item> <item>סוסון ים</item> <item>ים</item> <item>צב</item>
+        <item> הלמה</item> <item>כוורת</item> <item>אריה</item> <item>ארמדילו</item> <item>העדר</item> <item>גופר</item> <item>  שלוש אצבעות</item> <item>העצלן</item>
+        <item>אייל</item> <item>השועל</item> <item>גינאה</item> <item>חזיר</item> <item>ים</item> <item>אריה</item> <item>החמור</item> <item> הצפרדע</item> <item>קרואו</item>
+        <item>קרפדה</item> <item>תולעת</item> <item>פנתר</item> <item>צ'ינצ'ילה</item> <item>הצאן</item> <item>שימפנזה</item> <item>עגל</item> <item>הספר</item>
+        <item>זברה</item> <item>דגים</item> <item> חזיר יבלות</item> <item>גור</item> <item>שחף</item> <item>תוכי</item> <item>עוף</item> <item>אנושית</item>
+        <item>טוקאן</item> <item>הצבאים</item> <item> לובסטר</item> <item>ערבה</item> <item>כלב</item> <item>יונה</item> <item>ניבתן</item> <item>הדרקון</item>
+        <item>מדוזה</item> <item>  סרטן</item> <item>צב</item> <item>הברווזון</item> <item>צרעה</item> <item>סנאי</item> <item>גנו</item> <item>שפמנון</item>
+    </string-array>
+
+    <string-array name="hardDictHe">
+        <item>כַלָנית</item> <item>מַבְחֵנָה</item> <item>חלְקיק</item>
+        <item>קצב</item> <item>נתיב</item> <item>קרע</item> <item>ג'ונגל</item> <item>חשוב</item>
+        <item>איכר</item> <item>מטען</item> <item>ברד</item> <item>בבואה</item> <item>באוש</item> <item>רוטב</item> <item>סיסמה</item>
+        <item>היינץ</item> <item>הצעקה</item> <item>ידיעון</item> <item>סמן קצה</item>  <item>מטפטף</item>
+        <item>רוקח</item> <item>לשקר</item> <item>קטלוג</item> <item>כנופיה</item> <item>בביטול</item> <item>לייזר</item>
+        <item>אלכסוני</item> <item>קומפי</item> <item>מיתוס</item> <item>הגבי</item> <item>ביסקוויט</item> <item>מימן</item>
+        <item>מקרוני</item> <item>גומי</item> <item>החושך</item> <item>חלמון</item> <item>פעילות גופנית</item> <item>צמחוני</item> <item>חדף</item>
+        <item>ערמון</item> <item>לנטוש</item> <item>לנענע</item> <item>נצנצים</item> <item>השכונה</item> <item>סחרחורת</item> <item>האח</item> <item>קמעונאי</item>
+        <item>הישבון</item> <item>לוגו</item> <item>בד</item> <item>המראה</item> <item>ברבר</item> <item>ג'אז</item> <item>להעביר
+        </item> <item>בצורת</item> <item>מסחרי</item> <item>לוח המחוונים</item> <item>מציאה</item> <item>כפול</item> <item>להוריד
+        </item> <item>פרופסור</item> <item>נוף</item> <item>סקי</item> <item>משקפי מגן</item> <item>ויטמין</item>
+        <item>חצי</item> <item>קרטון</item> <item>משוט</item> <item>בייביסיטר</item> <item>טפטוף</item> <item>שמפו
+        </item> <item>נקודת</item> <item>זמן</item> <item>המכונה</item> <item>אבן הבוחן</item> <item>חושב</item> <item>תחרה
+        </item> <item>חצים</item> <item>העולם</item> <item>אבוקדו</item> <item>אקונומיקה</item> <item>מקלחת</item> <item>וילון
+        </item> <item>מאריך</item> <item>כבל</item> <item>דנט</item> <item>יום הולדת</item> <item>הברכיים</item> <item>בארגז החול
+        </item> <item>חבורה</item> <item>חול טובעני</item> <item>ערפל</item> <item>בנזין</item> <item>כיס</item> <item>הונק
+        </item> <item>ספוג</item> <item>רים</item> <item>הכלה</item> <item>הפאה</item> <item>רוכסן</item> <item>לכשכש</item> <item>מכתב
+        </item> <item>פותחן</item> <item>כינור</item> <item>מים</item> <item>תאו</item> <item>פיילוט</item> <item>המותג
+        </item> <item>דלי</item> <item>באגט</item> <item>סטייק</item> <item>הקמע</item> <item>כבאי</item> <item>הקוטב
+        </item> <item>מאוורר</item> <item>תקרה</item> <item>fizz</item> <item>סושי</item> <item>החיות</item> <item>קירח</item> <item>מעקה
+        </item> <item>פאנק</item> <item>פוסט</item> <item>office</item> <item>העונה</item> <item>לאינטרנט</item> <item>שח
+        </item> <item>הבובות</item> <item>פעמונים</item> <item>אייבי</item> <item>מלא</item> <item>קואלה</item> <item>שיניים</item><item>פינג</item> <item>פונג</item> <item>בונט</item> <item>תורן</item> <item>רתך</item><item>כלף</item> <item>גליונות</item><item>מייבש</item>
+        <item>ספינת מגורים</item>
+        <item>שינה</item> <item>ברך</item> <item>קרום</item> <item>סבא</item> <item>רמקולים</item> <item>מעודדת</item> <item>אבק
+        </item> <item>באני</item> <item>הבקתה סלמון</item> <item>להתמודד עם</item> <item>הביצה</item> <item>שיוט</item> <item>החתונה
+        </item> <item>העוגה</item> <item>קרואו</item><item>לקנן</item> <item>מאצ'ו</item> <item>לנקז</item>
+        <item>רדיד אלומיניום</item> <item>אורביט</item> <item>החלום</item> <item>המיחזור</item> <item>רפסודה</item> <item>זהב</item> <item>קרש
+        </item> <item>צוק</item> <item>הסוודר</item> <item>האפוד</item> <item>קייפ</item> <item>בטוח</item> <item>פיקניק</item> <item>לכווץ
+        </item> <item>ריי</item> <item>הדליפה</item> <item>בואה</item><item>עמוק</item> <item>עובש</item>  <item>ירעיש</item> <item>משוכה</item>
+        <item>אביר</item> <item>הגלימה</item> <item>פשפש</item>
+        <item>המזחלות</item> <item>חם</item> <item>ג'קוזי</item> <item>כבאי</item> <item>תא</item> <item>טלפון</item> מטען <item>
+        </item> <item>עש</item> של <item>המאמן</item> <item>הסיוט</item> <item>גבעול האפונה</item> <item>להתעטש</item>
+        <item>ממותה</item> <item>חזירים</item> <item>נחיל</item> <item>גובלין</item> <item>שף</item> <item>מחיאות כפיים</item> <item>שעווה
+        </item> <item>כבשים</item> <item>הכלב</item> <item>סמורס</item> <item>לחרוש</item> <item>ננס</item> <item>
+        </item> <item>חזון</item> <item>מלהמשיך ללכת</item> <item>המצפה</item> <item>המאה</item> <item>אטלנטיס
+        </item> <item>קילוגרם</item> <item>ניוטרון</item> <item>סמוי</item> <item>פסיכולוג</item> <item>מעריכית
+        </item> <item>אריסטוקרט</item> <item>יוריקה</item> <item>פרודיה</item> <item>קרטוגרפיה</item> <item>דמיוני
+        </item> <item>פילוסוף</item> <item>צביעה</item> <item>פתיחה</item> <item>אטום</item> <item>האברגליידס</item>
+        <item>אירוני</item> <item>אפס</item> <item>מטמנה</item> <item>לקרוס</item> <item>הצאר</item> <item>צי</item> <item>קריספ </item> <item>מניות</item>
+        <item>האינקוויזיציה</item> <item>mooch</item> <item>הדהירה</item> <item>הארכיאולוג</item> <item> נפח</item> <item>תוספת</item> <item>שדרוג</item>
+        <item>תחזיק</item> <item>עכו</item> <item>שלי</item> <item>רכב</item> <item>הפרוטסטנטית</item> <item>ברונטית</item> <item>שמנה</item> <item>ההסגר</item>
+        <item>מורה פרטי</item> <item>חיובי</item> <item>אלוף</item> <item>מאפה</item> <item>טורניר</item> <item>מי הגשמים</item>
+        <item>אקראי</item> <item>מילים</item> <item>קרח</item> <item>לדוג</item> <item>רמז</item> <item>רפרוף</item> <item>השפל
+        </item> <item>רצועה</item> <item>הבטלנים</item>  <item>הוד והדר</item> <item>
+        </item> <item>פק</item> <item>טחנת רוח</item> <item>צד</item> <item>שיניים</item> <item>הדשא</item> <item>מכסחת
+        </item> <item>קאף</item> <item>כתם</item> <item>הפאה</item> <item>סופטבול</item> <item>כלף</item> <item>מצחיק
+        </item> <item>גיליון</item> <item>שיער</item> <item>מייבש</item> <item>הסיוט</item> <item>צל</item> <item>שעווה
+        </item> <item>ערפל</item> <item>ללגום</item> <item>אמבטיה</item> <item>סולם</item> <item>מונית</item> <item>פיצה</item> <item>חול
+        </item> <item>מצטופפות</item> <item>קאובוי</item> <item>כרטיס</item> <item>המלונה</item> <item>נוקשות</item> <item>קשר</item>
+        <item>הנשיא</item> <item>ינשוף</item> <item>מפתח ברגים</item> <item>הסיפור</item> <item>מטרפה</item> <item>חול טובעני</item> <item> עמוד השדרה</item>
+        <item>זנגביל</item> <item>האפוד</item> <item>אמן</item> <item>שחמט</item> <item>איש</item> <item>עכביש
+        </item> <item>אינטרנט</item> <item>המזחלות</item> <item>ריאות</item> <item>שטיפת</item> <item>המכונה</item> <item>משוט</item> <item>לפיד
+        </item> <item>מחק</item> <item>מיני</item> <item>תריסים</item> <item>עכבר</item> <item>במלכודת</item> <item>דג חרב</item> <item> צנצנת</item>
+        <item>התכווצות</item> <item>פלמינגו</item> <item>יצוקה</item> <item>הונק</item> <item>מראה</item> <item>עסקי</item>
+        <item>טיול</item> <item>גיר</item> <item>חדר כושר</item> <item>הר געש</item> <item>אתה</item> <item>
+        </item> <item>בעמידה</item> <item>לערוק</item> של <item>וויל סמית</item> <item>דגל</item> <item>לנקום
+        </item> <item>קמיע</item> <item>טרופה</item> <item>לג</item> <item>מאזור הנוחות</item> <item>לסדר בסדר אלפביתי
+        </item> <item>אורח חיים</item> של <item>המכללה</item> <item>יישום</item> <item>רמת</item> <item>הזמנה
+        </item> <item>מחית</item> <item>פירור</item> <item>נאמנות</item> <item>קורדרוי</item>  <item> הפסיכולוג ריי</item>
+        <item>תוכנית המשחק</item> <item>בועה אישי</item> <item>דז'ה וו</item> <item>אולימפי</item> <item>שמן</item>
+        <item>מטרידים אותי</item> <item>ביקורת</item> <item>רצף המרחב והזמן</item> <item>ארגונומי</item> <item>מתחרט
+        </item> <item>נוער</item> <item>לארגן</item> <item>המוניטור</item> <item>בטהובן</item> <item>לייעל
+        </item> <item>לוויין</item> <item>הכרת תודה</item> <item>יומן</item> <item>א-קאפלה</item> <item>גבעול האפונה
+        </item> <item>לחקור</item> <item>מכרה</item> <item>לפרק</item> <item>הורג עשבים</item> <item>טכומטר
+        </item> <item>תיק</item> <item>מובטל</item> <item>פאר</item> <item>האבולוציה</item> <item>אדישות
+        </item> <item>לפרסם</item> <item>בכיכר</item> <item>ארגז חול</item> <item>השיחה</item> <item>משא ומתן
+        </item> <item>זמבוני</item> <item>צללית</item> <item>במעבר</item> <item>המטוטלת</item>
+        <item>העולם של טנקים</item> <item>לוח שנה</item> <item>מים חמים </item>
+        <item>צבע</item> <item>מגנטים</item> <item>היירספריי</item> <item>מכונת כביסה</item> <item>מסגרת תמונה</item>
+        <item> ליברטי</item> <item>צדק</item> <item>גאווה</item> <item>חופש</item> <item>מצעד</item> <item>פטריוט</item> <item> מלחמת העצמאות</item>
+        <item>ללגום</item> <item>עוף</item> <item>שיהיה</item> <item>חבר</item>
+        <item>טשטוש</item> <item>פעמונים</item> <item>אקונומיקה</item> <item>קליי</item> <item>פריחת</item> <item>קוג
+        </item> <item>איזו התרגשות</item> <item>מאחלים</item> <item>דרך</item> <item>הפאודליזם</item> <item>צליפת שוט</item> <item>מתקפלת
+        </item> <item>שרטוט</item> <item>גבעול האפונה</item> <item>חושב</item> <item>קרטון</item> <item>חצים</item> <item>inn
+        </item> <item>זן</item> <item>שריף</item> <item>על הגובה</item> <item>נקודה</item> <item>בוב</item> <item>גן
+        </item> <item>החולצה</item> <item>שמלת</item> <item>בלון</item> <item>צינור</item> <item>החזר</item> <item>הקפיטליזם
+        </item> <item>בדמו</item> <item>מחיאות כפיים</item>  <item>בוטה</item> <item>יישום
+        </item> <item>סמרטוט</item> <item>פזילה</item> <item>המתמחה</item> <item>האוזן</item> <item>סיעור מוחות</item> <item>קלע</item> <item>חצי
+        </item> <item>לצבוט</item> <item>הדליפה</item> <item>החלקה</item> <item>רינק</item> <item>לרענן</item> <item>נפמפם</item> <item>לכווץ
+        </item> <item>ריי</item> <item>דנט</item> <item>הנבל</item> <item>הנעות</item> <item>תא</item> <item>הטלפון
+        </item> <item>מטען</item> <item>מטבח</item> <item>הסכין</item> <item>להגדיר</item> <item>פאייטים</item> <item>הסולם
+        </item> <item>צלצל</item>  <item>שפעת</item> <item>שחיקה</item> <item>לסמן</item> <item>תורן</item> <item>שמשה</item> <item>המודרני
+        </item> <item>ג'ינג'ר</item> <item>שעון</item> <item>הבלגן</item> <item>הקמע</item> <item>ננס</item> <item>שרשרת
+        </item> <item>צלקת</item> <item>רקמות</item> <item>שיזוף</item> <item>פאר</item> <item>לטרוף</item> <item>משפט
+        </item> <item>הראשון</item> <item>חבר</item> <item>השרוול</item> <item>לציפורן</item> <item>שבועיים</item> <item>חידה</item>
+        <item> סליל</item> <item>מלא</item> <item>הירח</item> <item>לעד</item> <item>רות</item> <item>שולי</item> <item>חדשה</item> <item>הובלה</item>
+        <item>הרכבת</item> <item>צוללן</item> <item>פרינג</item> <item>מעשיר</item> <item>את כתב היד</item> <item>דון</item> <item>גומת חן</item>
+        <item>אפור</item> <item>שערות</item> <item>גידור</item> <item>קרש</item> <item>גזע
+        </item> <item>מפרסם</item> <item>פנינה</item> <item>לנטוש</item> <item>צמר</item> <item>משובץ</item> <item>מהודר
+        </item> <item>הובנה</item><item>שנהב</item> <item>משתה</item> <item>של מרפי</item> <item>חוק</item> <item>בילבורד
+        </item> <item>סומק</item> <item>בלתי מתקבל על הדעת</item> <item>גאות ושפל</item> <item>קיץ</item> <item>האוכלוסייה</item> <item>שלי
+        </item> <item>אלם</item> <item>איברים</item> <item>פלנל</item> <item>הפתח</item> <item>תא</item> <item>
+        </item> <item>הפעמון</item> <item>מכשפה</item> <item>עטלפים</item> <item>תלבושות</item> <item>הסתיו</item> <item>השלד
+        </item> <item>ממתקים</item> <item>חושש</item> <item>דחליל</item> <item>ממתקים</item> <item>פרנקנשטיין</item> <item>ממתקים
+        </item> <item>תירס</item> <item>חציר</item> <item>לרכוב</item> <item>בו</item> <item>סוכריה על מקל</item> <item>כהה</item> <item>רפאים
+        </item> <item>טריק</item> <item>או</item> <item>לטפל</item> <item>מפחיד</item> <item>ג'ק-o-פנס</item> <item>רדוף
+        </item> <item>בית</item> <item>רפאים</item> <item>הסיפור</item> <item>עכביש</item> <item>זאב</item> <item>מפחיד</item>
+        <item>סרטים</item> <item>בית קברות</item> <item>לחשים</item> <item>דלעת</item> <item>ערפד</item> <item>מרשמלו
+        </item> <item>זומבי</item> <item>הסוד</item> <item>מעבדה</item> <item>כועס</item> <item>מדען</item> <item>מפלצת</item> <item> שוקולד</item>
+        <item>עכביש</item> <item>אינטרנט</item> <item>שחור</item> <item>דרקולה</item> <item>ספוקס</item> <item>חמורה
+        </item> <item>מפחיד</item> <item>מפלצת</item> <item>מחית</item> <item>תירס</item> <item>במבוך</item> <item>נר</item> <item>הקריפטה
+        </item> <item>אפל</item> <item>סיידר</item> <item>מפוחד</item> <item>הון</item> <item>טלר</item> <item>איגור</item> <item>דלעת</item>
+        <item>זרעים</item> <item>אימה</item> <item>יופי</item> <item>התיק</item> <item>ע'ול</item> <item>הארון</item>
+        <item>שעת לילה</item> <item>מכסחי השדים</item> <item>גובלין</item> <item>מפחיד</item> <item>פנס</item> <item>צועני</item>
+        <item>הכלי</item> <item>תורן</item> <item>כלף</item> <item>מרגל</item> <item>דודה</item> <item>אקנה</item> <item>סינר</item>
+        <item>משכון</item> <item>האסטרונאוט</item> <item>זרד</item> <item>מעקה</item> <item>סוללות</item> <item>המלונה
+        </item> <item>המחנה</item> <item>שרברב</item> <item>פשפש</item> <item>כס</item> <item>ירעיש</item> <item>יומן</item> <item>השתק</item>
+        <item>נוגים</item> <item>המצעים</item> <item>ביס</item> <item>תנור</item> <item>טחנת הרוח</item> <item>הסיוט
+        </item> <item>פס</item> <item>מעיין</item> <item>שעון יד</item> <item>לאכול</item> <item>גפרור</item> <item>המסטיק</item>
+        <item>המזחלות</item> <item>בונט</item> <item>עדר</item> <item>ממטרה</item> <item>חי</item> <item>חדר</item> <item>הצחוק
+        </item> <item>להתכרבל</item> <item>להתעטש</item> <item>באד</item> <item>שדון</item> <item>כאב ראש</item> <item>סלאם</item> <item>דאנק
+        </item> <item>אוכף</item> <item>טרופה</item> <item>מצחיק</item> <item>לגלוש</item> <item>המנורה</item> <item>פמוט
+        </item> <item>סבא</item> <item>רקטה</item> <item>נדנדה</item> <item>הרולרבליידס</item> <item>הערפיח</item> <item>גריל
+        </item> <item>גובלין</item> <item>המאמן</item> <item>טופר</item> <item>ענן</item> <item>מדף</item> <item>המיחזור</item> <item> כאב אוזניים</item>
+        <item>רובוט</item> <item>רדיד</item> <item>צלעות</item> <item>החלוק</item> <item>פירור</item> <item>כריכה רכה
+        </item> <item>משוכה</item> <item>רעשן</item> <item>fetch</item> <item>תאריך</item> <item>אייפוד</item> <item>מחול</item> <item> צ'לו</item>
+        <item>חליל</item> <item>לעגן</item> <item>פרס</item> <item>דולר</item> <item>הבובות</item> <item>פליז
+        </item> <item>כבאי</item> <item>מצטופפות</item> <item>easel</item> <item>חזירים</item> <item>עניבת הפרפר</item> <item>כינור
+        </item> <item>שיניים</item> <item>צלם</item> <item>קסם</item> <item>מפלצת</item> <item> </item> <item>מכתב</item> <item>הפותח</item> <item>מיטת קומותיים</item>
+        <item>"אולד ספייס"</item> <item>דבק</item> <item> זמרי חג המולד</item> <item>המרפסת הקדמית</item> <item>סרטים ביתיים</item> <item>קרש גיהוץ</item> <item>אמבטיה</item>
+        <item>סולם נשיקה</item> <item>עגלת קניות</item> <item>מאוורר תקרה</item> <item>מקל פוגו</item> <item>פאזל פיסת</item> <item> החלל החיצון</item>
+        <item>בלו ג'ינס</item> <item>נעלי טניס</item> <item>הבייביסיטר</item> <item>לקלף בננה</item> <item> עט כדורי</item> <item>לשוד נהג מונית</item>
+        <item>בעמידה</item> <item>שעון מעורר</item> <item>את טבעת הנישואין</item> <item> באופן חריג</item>
+        <item>כשתוך</item> <item>בסגנון הרפתקני</item> <item>בדאגה</item> <item>ביהירות</item>
+        <item>באי נוחות והשלכתי</item> <item>בצורה עיוורת</item> <item>בהתפארות</item> <item>באומץ</item> <item>ובתנועות</item> <item>בקור רוח</item>
+        <item>בזהירות</item><item>באומץ לב</item> <item>בסקרנות</item> <item>בעדינות</item>
+        <item>בהתרסה</item> <item>בכוונה</item> <item>בספקנות</item> <item>ללא מאמץ</item> <item>באלגנטיות
+        </item> <item>ששלושתנו</item> <item>בפראות</item> <item>בטיפשות</item> <item>בכנות</item> <item>בעדינות</item> <item>בשמחה
+        </item> <item>בעליצות</item> <item>בחינניות</item> <item>בחופזה</item> <item>בכבדות</item> <item>ברעב עננים</item> <item>בתמימות
+        </item> <item>בעוצמה</item> <item>ברוגז</item> <item>בשמחה</item><item> בעצלתיים</item>
+        <item>גוזלי</item> <item>בקול רם</item> <item>באהבה</item> <item>במלכותיות</item> <item>מכנית</item>
+        <item>חרוץ</item> <item>בלעג</item> <item>באופן מסתורי</item> <item>בעצבנות</item> <item>nosily</item> <item>בצייתנות
+        </item> <item>באופטימיות</item> <item>חלקית</item> <item>בשובבות</item> <item>מיד</item> <item>בדיוק</item>
+        <item>במהירות</item> <item>במהירות</item> <item>בפזיזות</item><item>ווידועים</item> <item>בגסות</item> <item>ברצינות</item> <item>רועדת</item> <item>בחשש</item> <item>בשקט
+        </item> <item>בו זמנית</item> <item>ברכות</item> <item>במהרה</item> <item>באופן ספונטני</item> <item>בגניבה</item>
+        <item>בהצלחה</item> <item>בחשאי</item> <item>בחשדנות</item> <item>באהדה</item> <item>תודה לאל
+        </item> <item>מהורהרת</item> <item>באופן בלתי צפוי</item> <item>במעורפל</item> <item>לשווא</item> <item>זמרת</item>
+        <item>בהתנדבות</item> <item>חלש</item> <item>בלאות</item> <item>עד כדי פיהוק</item> <item>אידיאליסטית</item> <item>בקנאות</item>
+    </string-array>
+
+    <string-array name="easyDictEn">
+        <item>airplane</item><item>pillow</item><item>circle</item><item>pinch</item> <item>kick</item> <item>dog</item>
+        <item>basketball</item><item>sleep</item> <item>camera</item> <item>kangaroo</item><item>arm</item><item>prayer</item>
+        <item>elephant</item> <item>blink</item> <item>doll</item>  <item>spider</item> <item>point</item> <item>balloon</item> <item>book</item>
+        <item>glasses</item> <item>stop</item> <item>sneeze</item> <item>mouth</item> <item>draw</item><item>football</item> <item>telephone</item>
+        <item>pig</item> <item>wave</item><item>door</item> <item>tail</item> <item>turtle</item> <item>baby</item> <item>car</item> <item>cone</item>
+        <item>ice</item> <item>cream</item> <item>drink</item> <item>cheek</item> <item>bird</item> <item>baseball</item><item>smile</item>
+        <item>head</item> <item>robot</item> <item>chair</item> <item>alligator</item> <item>chicken</item> <item>shark</item> <item>jack</item>
+        <item>skip</item> <item>dance</item> <item>hopscotch</item> <item>mosquito</item> <item>toothbrush</item> <item>ring</item> <item>cat</item>
+        <item>sun</item><item>cup</item><item>ghost</item><item> flower</item><item> pie</item><item> cow</item><item> banana</item>
+        <item> snowflake</item><item> bug</item><item> jar</item><item> snake</item><item> light</item><item> tree</item><item> lips</item>
+        <item> apple</item><item> slide</item><item> socks </item><item>smile</item><item> swing</item><item> coat</item>
+        <item> shoe</item><item> water</item><item> heart</item><item> hat </item><item>ocean</item><item> kite</item>
+        <item> dog </item><item>mouth</item><item> milk</item><item> duck</item><item> eyes</item><item> skateboard</item>
+        <item> bird</item><item> boy</item><item> apple</item><item> person</item><item> girl</item><item> mouse</item><item> ball</item>
+        <item> house</item><item> star</item><item> nose</item><item> bed</item><item> whale</item><item> jacket</item><item> shirt</item>
+        <item> hippo</item><item> beach</item><item> egg</item><item> face</item><item> cookie</item><item> cheese</item><item> ice</item>
+        <item> cream </item><item>cone</item><item> drum </item><item>circle</item><item> spoon</item><item> worm </item><item>spider</item><item> web</item>
+        <item>bridge</item><item> bone</item><item> grapes</item><item> bell</item><item> jellyfish</item><item> bunny</item><item> truck</item>
+        <item>grass </item><item>door</item><item> monkey </item><item>spider</item><item> bread </item><item>ears</item><item> bowl</item><item> bracelet</item>
+        <item> alligator</item><item> bat</item><item> clock</item><item> lollipop</item><item> moon</item><item> doll</item><item> orange</item>
+        <item> ear</item><item> basketball</item><item> bike </item><item> airplane </item><item>pen </item><item>inchworm </item><item>seashell </item>
+        <item>rocket</item><item> cloud </item><item>bear </item><item>corn </item><item>chicken </item><item>purse </item><item>glasses </item>
+        <item>blocks</item><item> carrot </item><item>turtle </item><item>pencil </item><item>horse </item><item>dinosaur </item><item>head </item><item>lamp </item>
+        <item>snowman </item><item>ant </item><item>giraffe </item><item>cupcake </item><item>chair </item><item>leaf </item><item>bunk </item><item>bed </item><item>snail </item>
+        <item>baby</item><item> balloon </item><item>bus </item><item>cherry </item><item>crab </item><item>football </item><item>branch </item><item>robot</item>
+        <item>horse</item><item> door </item><item>song </item><item>trip </item><item>backbone </item><item>bomb </item><item>round </item><item>
+        treasure </item><item>garbage </item><item>park </item><item>pirate </item><item>ski </item><item>state </item><item>whistle </item><item>
+        palace </item><item>baseball </item><item>coal </item><item>queen </item><item>dominoes </item><item>photograph </item><item>computer </item><item>
+        hockey </item><item>aircraft </item><item>hot </item><item>dog </item><item>salt </item><item>and </item><item>pepper </item><item>key </item><item>
+        iPad </item><item>whisk </item><item>frog </item><item>lawnmower </item><item>mattress </item><item>pinwheel </item><item>cake </item><item>circus </item><item>
+        battery </item><item>mailman </item><item>cowboy </item><item>password </item><item>bicycle </item><item>skate </item><item>electricity </item><item>
+        lightsaber </item><item>thief </item><item>teapot </item><item>deep </item><item>spring </item><item>nature </item><item>shallow </item><item>toast </item><item>
+        outside </item><item>America </item><item>roller </item><item>blading </item><item>gingerbread </item><item>man </item><item>bowtie </item><item>half </item><item>
+        spare </item><item>wax </item><item>light </item><item>bulb </item><item>platypus </item><item>music</item><item>
+        sailboat </item><item>popsicle </item><item>brain </item><item>birthday </item><item>cake </item><item>skirt </item><item>knee </item><item>
+        pineapple </item><item>tusk </item><item>sprinkler </item><item>money </item><item>spool </item><item>lighthouse </item><item>doormat </item><item>
+        </item><item>face </item><item>flute </item><item>rug </item><item>snowball </item><item>purse </item><item>owl </item><item>gate </item><item>
+        suitcase </item><item>stomach </item><item>doghouse </item><item>pajamas </item><item>bathroom </item><item>scale </item><item>peach </item><item>
+        newspaper </item><item>watering </item><item>can </item><item>hook </item><item>school </item><item>beaver </item><item>french </item><item>fries </item><item>beehive </item><item>
+        beach </item><item>artist </item><item>flagpole </item><item>camera </item><item>hair </item><item>dryer </item><item>mushroom </item><item>
+        toe </item><item>pretzel </item><item>TV </item><item>quilt </item><item>chalk </item><item>dollar </item><item>soda </item><item>chin </item><item>
+        swing </item><item>garden </item><item>ticket </item><item>boot </item><item>cello </item><item>rain </item><item>clam </item><item>pelican </item><item>blowfish </item><item>rainbow </item><item>happy </item><item>fist </item><item>base </item><item>storm </item><item>
+        mitten </item><item>easel </item><item>nail </item><item>sheep </item><item>stoplight </item><item>coconut </item><item>crib </item><item>hippopotamus</item><item> ring </item><item>
+        seesaw </item><item>plate </item><item>fishing </item><item>pole </item><item>hopscotch </item><item>bell </item><item>pepper </item><item>
+        front </item><item>porch </item><item>cheek </item><item>video </item><item>camera </item><item>washing </item><item>machine </item><item>
+        telephone </item><item>silverware </item><item>barn </item><item>snowflake </item><item>bib </item><item>flashlight </item><item>
+        popsicle </item><item>muffin </item><item>sunflower </item><item>skirt </item><item>top </item><item>hat </item><item>
+        swimming </item><item>pool </item><item>tusk </item><item>radish </item><item>peanut </item><item>spool </item><item>poodle </item><item>
+        potato </item><item>face </item><item>shark </item><item>fang </item><item>snowball </item><item>waist </item><item>
+        spoon </item><item>gate </item><item>bottle </item><item>mail </item><item>sheep </item><item>lobster </item><item>ice </item><item>
+        crib </item><item>lawn </item><item>mower bubble </item><item>seesaw </item><item>pencil </item><item>cheeseburger </item><item>hopscotch </item><item>
+        rocking </item><item>chair </item><item>corner </item><item>cheek </item><item>rolly </item><item>polly </item><item>popcorn </item><item>
+        telephone </item><item>yo-yo</item><item> seahorse </item><item>snowflake </item><item>spine </item><item>desk</item><item>
+        love</item><item> sweetheart </item><item>mailbox </item><item>dinner </item><item>rose</item><item>
+        I love you</item><item>friendship </item><item>poems </item><item>card </item><item>lace </item><item>snow </item><item>Saint Valentine </item><item>
+        gift </item><item>jewelry </item><item>hugs </item><item>pink </item><item>happy </item><item>Cupid </item><item>red </item><item>
+        lollipop </item><item>heart </item><item>flowers </item><item>candy </item><item>couples </item><item>date </item><item>kisses </item><item>
+        diamond </item><item>restaurant </item><item>dove </item><item>February </item><item>chocolate </item><item>twitterpated </item><item>Romeo </item><item>
+        tuba </item><item>singer </item><item>race </item><item>candy </item><item>student </item><item>day </item><item>jump </item><item>
+        hurt </item><item>laundry </item><item>blue </item><item>sad </item><item>old </item><item>guitar </item><item>athlete </item><item>night </item><item>
+        knee </item><item>wedding </item><item>bat </item><item>buy </item><item>trash </item><item>can </item><item>freckle </item><item>
+        stream </item><item>quiet </item><item>mop </item><item>swing </item><item>radio </item><item>square </item><item>Monday </item><item>
+        school </item><item>bus </item><item>poem </item><item>scared </item><item>draw </item><item>type </item><item>short </item><item>stairs </item><item>
+        asleep </item><item>motorcycle </item><item>lunch </item><item>fog </item><item>new </item><item>straw </item><item>push </item><item>
+        dirty </item><item>girl </item><item>helicopter </item><item>playground </item><item>tiger </item><item>tornado </item><item>lime </item><item>
+        leg </item><item>salt </item><item>ankle </item><item>cake </item><item>shoelace </item><item>wheelchair </item><item>goodbye </item><item>worm </item><item>
+        eyebrow </item><item>lion </item><item>pear </item><item>talk </item><item>glasses </item><item>shirt </item><item>spoon </item><item>box </item><item>
+        wind </item><item>green </item><item>wolf </item><item>snow </item><item>couch </item><item>fix </item><item>flashlight </item><item>princess </item><item>
+        broken </item><item>dictionary </item><item>plate </item><item>neighbor </item><item>roller </item><item>coaster </item><item>bridge </item><item>
+        mailbox </item><item>flower </item><item>white </item><item>sandcastle </item><item>triangle </item><item>thunder </item><item>monster </item><item>
+        long </item><item>lizard </item><item>cafeteria </item><item>music </item><item>fire </item><item>engine </item><item>star </item><item>cook </item><item>
+        tired </item><item>slow </item><item>outer </item><item>space </item><item>brave </item><item>horse </item><item>niece </item><item>elephant </item><item>
+        tractor </item><item>elevator </item><item>light </item><item>bulb </item><item>broccoli </item><item>cough </item><item>heart </item><item>calculator </item><item>
+        stick </item><item>cat </item><item>tree </item><item>house </item><item>watermelon </item><item>chocolate </item><item> fast</item><item> </item><item>hungry </item><item>
+        red </item><item>frown </item><item>chew </item><item>pepper </item><item>sick</item><item>Egypt</item><item> skiing </item><item> Bahamas</item><item> luggage </item><item>
+        Europe </item><item>beach </item><item>house </item><item>packing </item><item>camping </item><item>rainforest </item><item>Colorado </item><item>
+        river </item><item>airport </item><item>summer </item><item>Canada </item><item>sunscreen </item><item>Disneyland </item><item>passport </item><item>
+        Arizona </item><item>sightseeing </item><item>resort </item><item>water </item><item>park </item><item>customs </item><item>America </item><item>
+        Africa </item><item>tourist </item><item>island </item><item>lake </item><item>sunny </item><item>weather </item><item>airport </item><item>
+        security </item><item>cruise </item><item>ship </item><item>Mexico </item><item>sleeping </item><item>
+        bag </item><item>hotel </item><item>mountain </item><item>biking </item><item>Paris </item><item>road </item><item>
+        trip </item><item>Bermuda </item><item>Jamaica </item><item>Spain </item><item>snowboarding</item><item>Say "cheese"</item><item>
+        map </item><item>trains </item><item>Alaska </item><item>camera </item><item>theme </item><item>park </item><item>national </item><item>park </item><item>
+        tour </item><item>guide </item><item>relax </item><item>Delaware </item><item>airplane </item><item>bug </item><item>spray </item><item>scenery </item><item>
+        layover </item><item>fanny </item><item>pack </item><item>river </item><item>rafting </item><item>beach </item><item>ball </item><item>kayak</item><item>
+        movies </item><item>hiking </item><item>stroll </item><item>surfboard</item><item> swimming pool</item><item>
+        bird </item><item>watching </item><item>Broadway</item><item>Universal Studios</item><item>binoculars </item><item>shopping </item><item>Rome </item><item>
+        Maine </item><item>bicycle </item><item>snow </item><item>cone </item><item>vacation </item><item>day </item><item>boardwalk </item><item>airline </item><item>
+        lazy </item><item>Florida </item><item>Texas </item><item>South Dakota </item><item>Istanbul </item><item>the Grand Canyon</item><item>
+        June </item><item>holiday </item><item>safari </item><item>Las Vegas </item><item>suitcase </item><item>Turkey </item><item>hang </item><item>glider </item><item>
+        first </item><item>class </item><item>condo </item><item>honeymoon </item><item>scuba </item><item>diving </item><item>China </item><item>
+        Africa </item><item>Italy </item><item>Hawaii </item><item>family </item><item>reunion </item><item>Scottland </item><item>London </item><item>
+        backpacking </item><item>Ireland </item><item>California </item><item>Switzerland </item><item>July </item><item>Tokyo </item><item>
+        Mount </item><item>Rushmore </item><item>coral </item><item>reef </item><item>summer </item><item>France</item><item>San Francisco</item><item>
+        Athens </item><item>Vienna </item><item>England </item><item>Washington </item><item>money </item><item>belt</item><item> Los Angeles</item><item>
+        Boston </item><item>party</item><item>puppy </item><item>weasel </item><item>owl </item><item>chipmunk </item><item>lamb </item><item>tiger </item><item>
+        doe </item><item>ewe </item><item>pelican </item><item>ape </item><item>sheep </item><item>dog </item><item>partridge </item><item>hedgehog </item><item>
+        cow </item><item>spider </item><item>turtle </item><item>alligator </item><item>seahorse </item><item>sea </item><item>turtle </item><item>
+        llama </item><item>hive </item><item>lion </item><item>armadillo </item><item>herd </item><item>gopher</item><item>
+        three-toed</item><item> sloth </item><item>elk </item><item>fox </item><item>guinea </item><item>pig </item><item>sea </item><item>lion </item><item>donkey </item><item>
+        frog </item><item>crow </item><item>zebra </item><item>toad </item><item>worm </item><item>panther </item><item>chinchilla </item><item>flock </item><item>chimpanzee </item><item>calf </item><item>school </item><item> fish </item><item>
+        warthog </item><item>cub </item><item>seagull </item><item>parakeet </item><item>chicken </item><item>human </item><item>toucan </item><item>deer </item><item>
+        lobster </item><item>prairie </item><item>dog </item><item>dove </item><item>walrus </item><item>komodo </item><item>dragon </item><item>jellyfish </item><item>
+        crab </item><item>tortoise </item><item>duckling </item><item>wasp </item><item>squirrel </item><item>wildebeest </item><item>catfish</item>
+    </string-array>
+
+    <string-array name="hardDictEn">
+        <item>rhythm</item> <item>office</item><item>path</item><item>snag</item><item> jungle </item><item>important </item><item>mime </item>
+        <item> peasant </item><item>baggage </item><item>hail </item><item>clog </item><item>pizza </item><item>sauce </item><item>password </item>
+        <item>Heinz </item><item> scream </item><item>newsletter </item><item>bookend </item><item>pro </item><item>dripping </item>
+        <item>pharmacist </item><item> lie </item><item>catalog </item><item>ringleader </item><item>husband </item><item>laser </item>
+        <item>diagonal </item><item> comfy </item><item>myth </item><item>dorsal </item><item>biscuit </item><item>hydrogen </item>
+        <item> macaroni </item><item>rubber </item><item> darkness </item><item>yolk </item><item>exercise </item><item>vegetarian </item><item>shrew </item>
+        <item> chestnut </item><item>ditch </item><item> wobble </item><item>glitter </item><item>neighborhood </item><item>dizzy </item><item>fireside </item><item>retail </item>
+        <item>drawback </item><item>logo </item><item>fabric </item><item>mirror </item><item>barber </item><item>jazz </item><item>migrate
+        </item><item>drought </item><item>commercial </item><item>dashboard </item><item>bargain </item><item>double </item><item>download
+        </item><item>professor </item><item>landscape </item><item>ski </item><item>goggles </item><item>vitamin</item><item>
+        </item><item>half </item><item>cardboard</item><item> oar </item><item>baby-sitter </item><item>drip </item><item>shampoo
+        </item><item>point </item><item>time </item><item>machine </item><item>yardstick </item><item>think </item><item>lace
+        </item><item>darts </item><item>world </item><item>avocado </item><item>bleach </item><item>shower </item><item>curtain
+        </item><item>extension </item><item>cord </item><item>dent </item><item>birthday </item><item>lap </item><item>sandbox
+        </item><item>bruise </item><item>quicksand </item><item>fog </item><item>gasoline </item><item>pocket </item><item>honk
+        </item><item>sponge </item><item>rim </item><item>bride </item><item>wig </item><item>zipper </item><item>wag </item><item>letter
+        </item><item>opener </item><item>fiddle </item><item>water </item><item>buffalo </item><item>pilot </item><item>brand
+        </item><item>pail </item><item>baguette </item><item>rib </item><item>mascot </item><item>fireman </item><item>pole
+        </item><item>zoo </item><item>sushi </item><item>fizz </item><item>ceiling </item><item>fan </item><item>bald </item><item>banister
+        </item><item>punk </item><item>post </item><item>office </item><item>season </item><item>Internet </item><item>chess
+        </item><item>puppet </item><item>chime </item><item>ivy </item><item>full </item><item>koala </item><item>dentist</item><item>
+        </item><item>baseboards </item><item>ping </item><item>pong </item><item>bonnet </item><item>mast </item><item>hut
+        </item><item>welder </item><item>dryer </item><item>sheets </item><item>sunburn </item><item>houseboat </item><item>sleep
+        </item><item>kneel </item><item>crust </item><item>grandpa </item><item>speakers </item><item>cheerleader </item><item>dust
+        </item><item>bunny </item><item>salmon cabin </item><item>handle </item><item>swamp </item><item>cruise </item><item>wedding
+        </item><item>cake </item><item>crow</item><item>'</item><item>s </item><item>nest </item><item>macho </item><item>drain </item>
+        <item>foil </item><item>orbit </item><item>dream </item><item>recycle </item><item>raft </item><item>gold </item><item>plank
+        </item><item>cliff </item><item>sweater </item><item>vest </item><item>cape </item><item>safe </item><item>picnic </item><item>shrink
+        </item><item>ray </item><item>leak </item><item>boa </item><item>constrictor </item><item>deep </item><item>mold </item><item>CD
+        </item><item>tiptoe </item><item>hurdle </item><item>knight </item><item>loveseat </item><item>cloak </item><item>bedbug </item>
+        <item>bobsled </item><item>hot </item><item>tub </item><item>firefighter </item><item>cell </item><item>phone </item><item>charger
+        </item><item>beanstalk </item><item>nightmare </item><item>coach </item><item>moth </item><item>sneeze </item><item>wooly </item>
+        <item>mammoth </item><item>pigpen </item><item>swarm </item><item>goblin </item><item>chef </item><item>applause </item><item>wax
+        </item><item>sheep </item><item>dog </item><item>s'mores </item><item>plow </item><item>runt</item><item>
+        </item><item>vision </item><item>loiterer </item><item>observatory </item><item>century </item><item>Atlantis
+        </item><item>kilogram </item><item>neutron </item><item>stowaway </item><item>psychologist </item><item>exponential
+        </item><item>aristocrat </item><item>eureka </item><item>parody </item><item>cartography </item><item>figment
+        </item><item>philosopher </item><item>tinting </item><item>overture </item><item>opaque </item><item>Everglades </item>
+        <item>ironic </item><item>zero </item><item>landfill </item><item>implode </item><item>czar </item><item>armada </item><item>crisp
+        </item><item>stockholder </item><item>inquisition </item><item>mooch </item><item>gallop </item><item>archaeologist </item><item>
+        blacksmith </item><item>addendum </item><item>upgrade </item><item>hang </item><item>ten </item><item>acre </item><item>twang
+        </item><item>mine </item><item>car </item><item>protestant </item><item>brunette </item><item>stout </item><item>quarantine </item>
+        <item>tutor </item><item>positive </item><item>champion </item><item>pastry </item><item>tournament </item><item>rainwater </item>
+        <item>random </item><item>lyrics </item><item>ice </item><item>fishing </item><item>clue </item><item>flutter </item><item>slump
+        </item><item>ligament </item><item>flotsam </item><item>siesta </item><item>pomp</item><item>
+        </item><item>peck </item><item>windmill </item><item>party </item><item>dentist </item><item>lawn </item><item>mower
+        </item><item>softball </item><item>wig </item><item>stain </item><item>cuff </item><item>sunburn </item><item>funny
+        </item><item>sheet </item><item>hair </item><item>dryer </item><item>nightmare </item><item>shadow </item><item>wax
+        </item><item>fog </item><item>sip </item><item>bathroom </item><item>scale </item><item>taxi </item><item>pizza </item><item>sand
+        </item><item>huddle </item><item>cowboy </item><item>ticket </item><item>doghouse </item><item>stiff </item><item>knot </item>
+        <item>president </item><item>owl </item><item>wrench </item><item>story </item><item>whisk </item><item>quicksand </item><item>
+        spine </item><item>chess </item><item>artist </item><item>vest </item><item>gingerbread </item><item>man </item><item>spider
+        </item><item>web </item><item>bobsled </item><item>lung </item><item>washing </item><item>machine </item><item>oar </item><item>torch
+        </item><item>eraser </item><item>mini </item><item>blinds </item><item>mouse </item><item>trap </item><item>swordfish </item><item>
+        jar </item><item>cramp </item><item>flamingo </item><item>cast </item><item>honk </item><item>mirror </item><item>business </item>
+        <item>trip </item><item>chalk </item><item>gym </item><item>volcano </item><item>you</item><item>
+        </item><item>Will Smith</item><item>defect</item><item> standing ovation</item><item> flag </item><item>retaliate
+        </item><item>mascot </item><item>shipwreck </item><item>jet lag</item><item> comfort zone</item><item> alphabetize
+        </item><item>application </item><item>college </item><item>lifestyle </item><item>level </item><item>invitation
+        </item><item>applesauce </item><item>crumb </item><item>loyalty </item><item>corduroy </item><item>fizz</item><item>
+        shrink ray</item><item> game plan</item><item> personal bubble</item><item> déjà vu</item><item> Olympian </item><item>oil </item>
+        <item>procrastinate </item><item>criticize</item><item> space-time continuum</item><item>ergonomic </item><item>regret
+        </item><item>teenager </item><item>organize</item><item> baby monitor</item><item> Beethoven </item><item>streamline
+        </item><item>satellite </item><item>gratitude </item><item>journal </item><item>a cappella </item><item>beanstalk
+        </item><item>explore</item><item>mine shaft</item><item> dismantle</item><item>weed killer</item><item>tachometer
+        </item><item>unemployed </item><item>portfolio </item><item>pomp </item><item>evolution </item><item>apathy
+        </item><item>advertise </item><item>roundabout </item><item>sandbox </item><item>conversation </item><item>negotiate
+        </item><item>Zamboni </item><item>silhouette </item><item>aisle </item><item>pendulum</item><item>
+        </item><item>world of tanks</item><item> viber</item><item>whatsapp</item><item> calendar</item><item> hot water
+        </item><item>paint</item><item>magnets </item><item>hairspray</item><item>washing machine</item><item> picture frame</item><item>
+        liberty </item><item>justice </item><item>pride </item><item>freedom </item><item>parade  </item><item>patriot</item><item>
+        Revolutionary War</item><item> whatever </item><item>buddy </item><item>sip </item><item>chicken </item><item>coop
+        </item><item>blur </item><item>chime </item><item>bleach </item><item>clay </item><item>blossom </item><item>cog
+        </item><item>twitterpated </item><item>wish </item><item>through </item><item>feudalism </item><item>whiplash </item><item>cot
+        </item><item>blueprint </item><item>beanstalk </item><item>think </item><item>cardboard </item><item>darts </item><item>inn
+        </item><item>Zen </item><item> BFF </item><item>sheriff </item><item>tiptop </item><item>dot </item><item>bob </item><item>garden
+        </item><item>hose </item><item>blimp </item><item>dress </item><item>shirt </item><item>reimbursement </item><item>capitalism
+        </item><item>step-daughter </item><item>applause </item><item>jig </item><item>jade </item><item>blunt </item><item>application
+        </item><item>rag </item><item>squint </item><item>intern </item><item>ear </item><item>brainstorm </item><item>sling </item><item>half
+        </item><item>pinch </item><item>leak </item><item>skating </item><item>rink </item><item>jog </item><item>jammin' </item><item>shrink
+        </item><item>ray </item><item>dent </item><item>scoundrel </item><item>escalator </item><item>cell </item><item>phone
+        </item><item>charger </item><item>kitchen </item><item>knife </item><item>set </item><item>sequins </item><item>ladder
+        </item><item>rung</item><item>flu </item><item>scuff </item><item>mark </item><item>mast </item><item>sash </item><item>modern
+        </item><item>ginger </item><item>clockwork </item><item>mess </item><item>mascot </item><item>runt </item><item>chain
+        </item><item>scar </item><item>tissue </item><item>suntan </item><item>pomp </item><item>scramble </item><item>sentence
+        </item><item>first </item><item>mate </item><item>cuff </item><item>cuticle </item><item>fortnight </item><item>riddle </item><item>
+        spool </item><item>full </item><item>moon </item><item>forever </item><item>rut </item><item>hem </item><item>new </item><item>
+        freight </item><item>train </item><item>diver </item><item>fringe </item><item>humidifier </item><item>handwriting </item><item>
+        dawn </item><item>dimple </item><item>gray </item><item>hairs </item><item>hedge </item><item>plank </item><item>race
+        </item><item>publisher </item><item>fizz </item><item>gem </item><item>ditch </item><item>wool </item><item>plaid </item><item>fancy
+        </item><item>ebony </item><item>and </item><item>ivory </item><item>feast </item><item>Murphy's </item><item>Law </item><item>billboard
+        </item><item>flush </item><item>inconceivable </item><item>tide </item><item>midsummer </item><item>population </item><item>my
+        </item><item>elm </item><item>organ </item><item>flannel </item><item>hatch </item><item>booth</item><item>
+        </item><item>doorbell </item><item>witch </item><item>bats </item><item>costume </item><item>autumn </item><item>skeleton
+        </item><item>sweets </item><item>afraid </item><item>scarecrow </item><item>candy </item><item>Frankenstein </item><item>candy
+        </item><item>corn </item><item>hay </item><item>ride </item><item>boo </item><item>lollipop </item><item>dark </item><item>ghost
+        </item><item>trick </item><item>or </item><item>treat </item><item>scary </item><item>jack-o-lantern </item><item>haunted
+        </item><item>house </item><item>ghost </item><item>story </item><item>spider </item><item>werewolf </item><item>scary </item>
+        <item>movies </item><item>graveyard </item><item>spells </item><item>pumpkin </item><item>vampire </item><item>marshmallow
+        </item><item>zombie </item><item>secret </item><item>lab </item><item>mad </item><item>scientist </item><item>monster </item><item>
+        chocolate </item><item>spider </item><item>web </item><item>black </item><item>Dracula </item><item>spooks </item><item>grave
+        </item><item>creepy </item><item>Monster </item><item>Mash </item><item>corn </item><item>maze </item><item>candle </item><item>crypt
+        </item><item>apple </item><item>cider </item><item>frightened </item><item>fortune </item><item>teller </item><item>Igor </item><item>
+        pumpkin </item><item>seeds </item><item>horror </item><item>goody </item><item>bag </item><item>ghoul </item><item>coffin </item>
+        <item>nighttime </item><item>Ghostbusters </item><item>goblin </item><item>spooky </item><item>lantern </item><item>gypsy</item>
+        <item>tool </item><item>flagpole </item><item>sunburn </item><item>spy </item><item>aunt </item><item>acne </item><item>
+        bib </item><item>pawn </item><item>astronaut </item><item>twig </item><item>banister </item><item>batteries </item><item>doghouse
+        </item><item>campsite </item><item>plumber </item><item>bedbug </item><item>throne </item><item>tiptoe </item><item>log </item><item>
+        mute </item><item>stoplight </item><item>bedspread </item><item>bite </item><item>stove </item><item>windmill </item><item>nightmare
+        </item><item>stripe </item><item>spring </item><item>wristwatch </item><item>eat </item><item>matchstick </item><item>gumball </item>
+        <item>bobsled </item><item>bonnet </item><item>flock </item><item>sprinkler </item><item>living </item><item>room </item><item>laugh
+        </item><item>snuggle </item><item>sneeze </item><item>bud </item><item>elf </item><item>headache </item><item>slam </item><item>dunk
+        </item><item>saddle </item><item>shipwreck </item><item>funny </item><item>glide </item><item>lamp </item><item>candlestick
+        </item><item>grandfather </item><item>rocket </item><item>seesaw </item><item>rollerblades </item><item>smog </item><item>grill
+        </item><item>goblin </item><item>coach </item><item>claw </item><item>cloud </item><item>shelf </item><item>recycle </item><item>
+        earache </item><item>robot </item><item>foil </item><item>rib </item><item>robe </item><item>crumb </item><item>paperback
+        </item><item>hurdle </item><item>rattle </item><item>fetch </item><item>date </item><item>iPod </item><item>dance </item><item>
+        cello </item><item>flute </item><item>dock </item><item>prize </item><item>dollar </item><item>puppet </item><item>brass
+        </item><item>firefighter </item><item>huddle </item><item>easel </item><item>pigpen </item><item>bowtie </item><item>fiddle
+        </item><item>dentist </item><item>baseboards </item><item>photographer </item><item>magic </item><item>monster</item><item>
+        </item><item>letter </item><item>opener</item><item> bunk bed</item><item>Old Spice</item><item> glue stick</item><item>
+        Christmas carolers</item><item> front porch</item><item>home movies</item><item>ironing board</item><item> bathroom</item>
+        <item> scale kiss</item><item> shopping cart</item><item>ceiling fan</item><item>pogo stick</item><item>puzzle piece</item><item>
+        outer space</item><item> tennis shoes</item><item>blue jeans</item><item>baby-sitter</item><item> banana peel</item><item>
+        ballpoint pen</item><item> taxi cab</item><item>standing ovation</item><item> alarm clock</item><item> wedding ring</item><item>
+        abnormally </item><item>absentmindedly </item><item>adventurously </item><item>anxiously </item><item>arrogantly </item>
+        <item>awkwardly </item><item>blindly</item><item> boastfully </item><item>boldly </item><item>busily </item><item>calmly </item>
+        <item>cautiously </item><item>chivalrously </item><item>coaxingly </item><item>courageously </item><item>curiously </item><item>
+        daintily </item><item>defiantly </item><item>deliberately </item><item>doubtfully </item><item>effortlessly</item><item> elegantly
+        </item><item>famously </item><item>ferociously </item><item>foolishly </item><item>frankly </item><item>gently </item><item>gladly
+        </item><item>gleefully </item><item>gracefully </item><item>hastily </item><item>heavily </item><item>hungrily </item><item>innocently
+        </item><item>inquisitively </item><item>intensely </item><item>irritably </item><item>joyously</item><item> kiddingly </item><item>
+        lazily </item><item>loftily </item><item>loudly </item><item>lovingly </item><item>majestically </item><item>mechanically </item>
+        <item>miserably </item><item>mockingly </item><item>mysteriously </item><item>nervously </item><item>nosily </item><item>obediently
+        </item><item>optimistically </item><item>partially </item><item>playfully </item><item>promptly </item><item>punctually </item><item>
+        quarrelsome </item><item>questionably </item><item>quickly </item><item>rapidly </item><item>recklessly </item><item>repeatedly
+        </item><item>robotic </item><item>rudely </item><item>seriously </item><item>shakily </item><item>sheepishly </item><item>silently
+        </item><item>simultaneously </item><item>softly </item><item>speedily </item><item>spontaneously </item><item>stealthily </item>
+        <item>successfully </item><item>surreptitiously </item><item>suspiciously </item><item>sympathetically </item><item>thankfully
+        </item><item>thoughtfully </item><item>unexpectedly </item><item>vaguely </item><item>vainly </item><item>victoriously </item>
+        <item>voluntarily </item><item>weakly </item><item>wearily </item><item>weightlessly </item><item>yawningly </item><item>
+        youthfully </item><item>zealously</item>
+    </string-array>
+
+    <string-array name="easyDictEnName">
+        <item>Without brain load</item>
+        <item>For beginners</item>
+        <item>dog, robot, book</item>
+    </string-array>
+
+    <string-array name="hardDictEnName">
+        <item>Need to sweat</item>
+        <item>For geniuses</item>
+        <item>rhythm, office, path</item>
+    </string-array>
+
+    <string-array name="easyDictHeName">
+        <item>בלי לחשוב יותר מידי</item>
+        <item>למתחילים</item>
+        <item>אבטיח, כלב, פארק</item>
+    </string-array>
+
+    <string-array name="hardDictHeName">
+        <item>צריך קצת להזיע</item>
+        <item>לגאונים</item>
+        <item>כַלָנית, מַבְחֵנָה, חלְקיק</item>
+    </string-array>
+
+</resources>

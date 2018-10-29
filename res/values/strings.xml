@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Alias</string>
+    <string name="continueGame">Continue</string>
+    <string name="newGame">New Game</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="settings">Settings</string>
+    <string name="teams">Teams Name</string>
+    <string name="team">Team</string>
+    <string name="all">All</string>
+    <string name="dictionaries">Words Dictionaries</string>
+    <string name="lessThanTwoTeamsMessage">Please, choose at least 2 teams</string>
+    <string name="noMoreTeamsMessage">Think about your own team name</string>
+    <string name="numberOfWords">Number of words</string>
+    <string name="forVictory">for victory</string>
+    <string name="roundTime">Round time</string>
+    <string name="durationInSeconds">duration in seconds</string>
+    <string name="commonFinalWord">Common final word</string>
+    <string name="subCommonFinalWord">the final word can be guessed by all the teams</string>
+    <string name="words">words</string>
+    <string name="prepareForTheGame">prepare for the game</string>
+    <string name="startGame">Tap to start</string>
+    <string name="skipped">Skipped</string>
+    <string name="results">Results</string>
+    <string name="guessed">Guessed</string>
+    <string name="lastWordDialog">The last word</string>
+    <string name="guessedBy">guessed by:</string>
+    <string name="roundResult">Round result of </string>
+    <string name="Else">Else</string>
+    <string name="congratulations">are the winners. Congratulations! </string>
+    <string name="close">Close</string>
+    <string name="newGameQuestion">Start a new game?</string>
+    <string name="currentGame">The current game will be deleted</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="rule1">Alias is an educational team game which goal is to explain words.</string>
+    <string name="rule2">
+        Each player of the team have to explain to the teammates as many words displayed on the screen as possible.
+        It’s forbidden to use conjugates, to use gestures while explaining or to translate the words to foreign languages.</string>
+    <string name="rule3">
+        Each guessed word brings +1 point to the team, and each passed word brings -1 point.
+        If the team did not have time to answer the last word - the word is not read and the team gets 0 points for this word.
+        In the settings you can sign “last word for everyone” – this way each team can to guess the last word and to get +1 point.
+    </string>
+    <string name="rule4">
+        The game continues until one of the teams will get the necessary words number at the end of the round.
+        If there are more than one winner with the same number of points, the game continues until the winner is determined.
+    </string>
+    <string name="exit_to_menu_question">Exit to menu?</string>
+    <string name="progress_will_be_deleted">The round progress will not be saved</string>
+    <string name="yes">Yes</string>
+    <string name="difficulty">Difficulty of words</string>
+    <string name="lets_play">Let\'s play</string>
+    <string name="pause">Pause</string>
+    <string name="we_know_rules">I know the rules</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="teams_setting_instructions">Alias is a friends game. Add at least two participating teams with a minimum two team members.</string>
+    <string name="game_setting_instructions">
+        It is the game settings. Select the number of words for winning the game, round time and if the last word is for common guessing.
+    </string>
+    <string name="dictionary_setting_instructions">Here you can select the difficulty of the words of the game and the language of this words.</string>
+    <string name="game_instructions">One team member should explain to teammates as many words displayed on the screen as possible.
+        It’s forbidden to use conjugates, to use gestures while explaining or to translate the words to foreign languages.
+        \n\nWhen team guesses the word swipe the card up. It will bring you +1 point. To skip the word swipe the card down. It will bring you -1 point.
+    </string>
+    <string name="round_result_instructions">
+        Here you can change the results of the round if you swiped the card mistake or there were violations of the rules of the game.
+    </string>
+
+    <string-array name="teamsNames">
+        <item>Marijuana Smokers</item>
+        <item>Army of Darkness</item>
+        <item>Crazy Rabbits</item>
+        <item>Monkeys</item>
+        <item>Chicks with Kicks</item>
+        <item>Bulls</item>
+        <item>Ginger Generals</item>
+        <item>Ninjas</item>
+        <item>Kings</item>
+        <item>Alcoholics Anonymous</item>
+        <item>Skilli Vanilli</item>
+        <item>Titanic Swim Team</item>
+    </string-array>
+
+
+</resources>

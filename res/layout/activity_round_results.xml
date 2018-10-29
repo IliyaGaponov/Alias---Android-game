@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/roundResult"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/team_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_centerInParent="true"
+            android:paddingEnd="25dp"
+            android:text="team1"
+            android:textSize="25dp"
+            android:textStyle="italic"/>
+        <TextView
+            android:id="@+id/score_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_toEndOf="@id/team_name"
+            android:text="team2"
+            android:textSize="25dp"
+            android:textStyle="italic"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="33dp"
+            android:drawableStart="@drawable/smile_green"
+            android:drawablePadding="6dp"
+            android:padding="5dp"
+            android:text="@string/guessed"
+            android:textSize="15dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:drawableStart="@drawable/sad_red"
+            android:drawablePadding="5dp"
+            android:text="@string/skipped"
+            android:textSize="15dp"
+            android:textColor="@color/black"
+            android:padding="5dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:drawableStart="@drawable/error_red"
+            android:drawablePadding="5dp"
+            android:text="@string/Else"
+            android:textSize="15dp"
+            android:textColor="@color/black"
+            android:padding="5dp"/>
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

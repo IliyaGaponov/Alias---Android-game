@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alias</string>
+    <string name="continueGame">השמך משחק</string>
+    <string name="newGame">משחק חדש</string>
+    <string name="tutorial">חוקים</string>
+    <string name="teams">קבוצות</string>
+    <string name="lessThanTwoTeamsMessage">במשחק צריכות להשתתף לפחות שתי קבוצות</string>
+    <string name="noMoreTeamsMessage">תחשבו על שם מקורי משלכם</string>
+    <string name="rule1">אליאס הוא משחק חינוכי שמשחקים בו בצוותים והמטרה שלו היא להסביר מילים.</string>
+    <string name="rule2">כל שחקן צריך להסביר לחברי הצוות שלו כמה שיותר מילים שמוצגים לו על המסך. בהסבר אסור להישתמש במילים בעלי אותו שורש, להישתמש בסימנים או לתת תרגום למילה בשפה זרה.</string>
+    <string name="rule3">כל מילה מנוחשת מביאה 1+ נקודות לצוות, כל מילה מדולגת מביאה 1- נקודות. אם הצוות לא הספיק לתת תשובה למילה האחרונה, המילה לא תחשב והצוות יקבל 0 נקודות על המילה הזאת. בהגדרות ניתן לסמן \'\'מילה אחרונה לכולם\'\' – כך כל צוות יוכל לנחש את המילה האחרונה ויקבל על זה 1+ נקודות.</string>
+    <string name="rule4">המשחק נמשך עד שאחד מהצוותים מגיע למספר מילים הנדרש בסוף הסיבוב. אם יש יותר מאחד מנצחים עם אותה כמות נקודות אז ממשיכים סיבוב נוסף.</string>
+    <string name="numberOfWords">כמות המילים</string>
+    <string name="roundTime">זמן הסיבוב</string>
+    <string name="durationInSeconds">בשניות</string>
+    <string name="forVictory">לניצחון</string>
+    <string name="settings">הגדרות</string>
+    <string name="commonFinalWord">מילה אחרונה משותפת</string>
+    <string name="subCommonFinalWord">כל השחקנים יכולים לנחש את המילה האחרונה</string>
+    <string name="dictionaries">בחירת מילון</string>
+    <string name="team">קבוצה</string>
+    <string name="all">הכל</string>
+    <string name="prepareForTheGame">אתם הבאים בתור</string>
+    <string name="startGame">לחץ להתחלה</string>
+    <string name="words">מילים</string>
+    <string name="skipped">דילוגים</string>
+    <string name="results">תוצאות</string>
+    <string name="guessed">ניחושים</string>
+    <string name="lastWordDialog">את המילה האחרונה</string>
+    <string name="guessedBy">ניחשו:</string>
+    <string name="congratulations">ניצחתם. בירה על המפסידים</string>
+    <string name="close">סגור</string>
+    <string name="roundResult">תוצאות הסיבוב עבור</string>
+    <string name="Else">דלג</string>
+    <string name="newGameQuestion">רוצים להתחיל משחק חדש?</string>
+    <string name="currentGame">המשחק הקודם יימחק</string>
+    <string name="cancel">לא</string>
+    <string name="start">התחל</string>
+    <string name="exit_to_menu_question">לצאת לתפריט הראשי?</string>
+    <string name="progress_will_be_deleted">התוצאות לא ישמרו</string>
+    <string name="yes">כן</string>
+    <string name="difficulty">רמת המילים</string>
+    <string name="lets_play">עבור למשחק</string>
+    <string name="pause">הפסקה</string>
+    <string name="we_know_rules">דלג על חוקים</string>
+    <string name="teams_setting_instructions">אליאס הוא משחק קבוצתי. במשחק משתתפות מינימום שתי קבוצות עם לפחות שני אנשים בכל אחת. במסך זה עליכם לבחור את הקבוצות המשתתפות במשחק.</string>
+    <string name="game_setting_instructions">
+        הגדרות. תבחרו את כמות המילים לניצחון, תגדירו את הזמן של כל מחזור והאם המילה האחרונה היא בשביל כל הקבוצות בסיום הזמן.
+    </string>
+    <string name="dictionary_setting_instructions">תבחרו את השפה ורמת המילים</string>
+    <string name="game_instructions">
+        אחד מהשחקנים של הקבוצה המשחקת צריך להסביר לחבריו בקבוצה כמה שיותר מילים המופיעות בקלפים. אסור לתת רמז עם סימנים או להסביר באמצעות מילים עם אותו שורש. \n\n
+        בניחוש נכון של המילה החליקו את הקלף למעלה. זה יביא לכם נקודה אחת. בשביל לדלג על מילה החליקו אותה למטה. שימו לב שכל החקלה למטה מורידה נקודה אחת.
+    </string>
+    <string name="round_result_instructions">
+        כאן אתם יכולים לשנות את התוצאות של המחזור האחרון אם בטעות החלקתם את הקלף לכיוון הלא נכון או לא עמדתם בחוקים של המשחק.
+    </string>
+
+    <string-array name="teamsNames">
+        <item>מעשני סמים</item>
+        <item>רוסים כבדים</item>
+        <item>אוהבי ליכוד</item>
+        <item>קופים</item>
+        <item>כוכבי האח הגדול</item>
+        <item>אלכוהוליסטים אנונימיים</item>
+    </string-array>
+</resources>

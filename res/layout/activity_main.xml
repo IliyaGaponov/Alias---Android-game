@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/main_background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/language_icons_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:visibility="invisible">
+
+            <ImageView
+                android:id="@+id/israel_image_view"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:src="@drawable/israel_icon" />
+
+            <ImageView
+                android:id="@+id/english_image_view"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:src="@drawable/english_icon" />
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="50dp">
+
+            <ImageView
+                android:id="@+id/logo_iv"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/my_logo"/>
+
+            <ImageView
+                android:id="@+id/shine_iv"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignEnd="@+id/logo_iv"
+                android:layout_alignTop="@+id/logo_iv"
+                android:background="@android:color/transparent"
+                android:src="@drawable/shine" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/buttons_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/continue_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginEnd="60dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/continueGame"
+            android:textAllCaps="false"
+            android:textColor="@drawable/text_color_selector"
+            android:textSize="25dp"
+            android:visibility="invisible" />
+        <Button
+            android:id="@+id/new_game_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/main_button_background"
+            android:text="@string/newGame"
+            android:layout_marginBottom="30dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:textColor="@drawable/text_color_selector"
+            android:textAllCaps="false"
+            android:textSize="25dp"/>
+
+        <Button
+            android:id="@+id/tutorial_btn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/tutorial"
+            android:background="@drawable/main_button_background"
+            android:layout_marginBottom="50dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:textColor="@drawable/text_color_selector"
+            android:textAllCaps="false"
+            android:textSize="25dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

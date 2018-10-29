@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@android:color/transparent"
+    app:cardElevation="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="5"
+            android:layout_height="wrap_content"
+            android:paddingStart="10dp"
+            android:paddingTop="5dp">
+            <TextView
+                android:id="@+id/word_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="word"
+                android:textColor="@color/black"
+                android:textSize="20dp"/>
+            <il.co.alias.LineTextView
+                android:id="@+id/line_texview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="word"
+                android:textSize="20dp"
+                android:visibility="gone"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/guessed_iv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/smile_green"
+            android:paddingTop="5dp"/>
+        <ImageView
+            android:id="@+id/skipped_iv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/sad_red"
+            android:paddingTop="5dp"/>
+        <ImageView
+            android:id="@+id/else_iv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/error_black"
+            android:paddingTop="5dp"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="wrap_content"
+    android:layout_width="0dp"
+    android:layout_weight="5"
+    android:paddingStart="10dp"
+    android:paddingTop="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <il.co.alias.LineTextView
+        android:id="@+id/line_texview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="word"
+        android:textSize="20dp"
+        android:visibility="gone"
+        android:textColor="@color/black"/>
+</LinearLayout>

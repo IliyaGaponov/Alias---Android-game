@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="il.co.alias">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/my_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".TeamSettingsActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/teams"
+            android:windowSoftInputMode="adjustPan"
+            android:parentActivityName=".MainActivity" >
+        </activity>
+
+        <activity android:name=".GameSettingsActivity"
+            android:label="@string/settings"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".TeamSettingsActivity">
+        </activity>
+
+        <activity android:name=".DictionariesActivity"
+            android:label="@string/difficulty"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".GameSettingsActivity">
+        </activity>
+
+        <activity android:name=".TeamsResultsActivity"
+            android:label="@string/results"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".RoundResultsActivity">
+        </activity>
+
+        <activity android:name=".GameActivity" android:theme="@style/myCustomMenuTextApearance"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".TeamsResultsActivity">
+        </activity>
+
+        <activity android:name=".RoundResultsActivity"
+            android:label="@string/results"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".TutorialActivity"
+            android:label="@string/tutorial"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity" >
+        </activity>
+
+        <activity
+            android:name=".InstructionActivity"
+            android:theme="@style/Theme.Instructions"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".TeamSettingsActivity">
+        </activity>
+    </application>
+
+
+
+</manifest>

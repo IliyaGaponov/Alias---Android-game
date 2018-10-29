@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="lightBrown">#94600b</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#b7b3b3</color>
+    <color name="orange">#f16f0c</color>
+    <color name="transparentColor">#00ff0000</color>
+    <color name="beige">#ddcdac</color>
+    <color name="transparentBlueColor">#9002acbf</color>
+    <color name="green">#06b64f</color>
+    <color name="transparentGreen">#5006b64f</color>
+    <color name="actionBarColor">#222222</color>
+    <color name="light_grey">#dcdbdb</color>
+    <color name="yellow">#feda00</color>
+    <color name="dark_red">#df1010</color>
+    <color name="dark_green">#0f9183</color>
+    <color name="black_transparent">#CC000000</color>
+
+</resources>
