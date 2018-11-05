@@ -70,7 +70,7 @@ public class TeamsResultsActivity extends AppCompatActivity {
 
         if(sharedPreferences.getBoolean(IS_FIRST_APP_USING, true))
         {
-            editor.putBoolean(IS_FIRST_APP_USING, false);
+            editor.putBoolean(IS_FIRST_APP_USING, false).apply();
         }
 
         //checking if the game is finished

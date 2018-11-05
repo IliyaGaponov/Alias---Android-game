@@ -96,7 +96,7 @@ public class GameSettingsActivity extends AppCompatActivity implements SeekBar.O
             roundTimeTv.setText(String.valueOf(progress));
         }
         // set minimum limit to seek bar
-        int min = 5;
+        int min = 10;
         if(progress < min) {
             seekBar.setProgress(min);
         }

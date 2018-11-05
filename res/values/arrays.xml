@@ -265,7 +265,7 @@
         <item> alligator</item><item> bat</item><item> clock</item><item> lollipop</item><item> moon</item><item> doll</item><item> orange</item>
         <item> ear</item><item> basketball</item><item> bike </item><item> airplane </item><item>pen </item><item>inchworm </item><item>seashell </item>
         <item>rocket</item><item> cloud </item><item>bear </item><item>corn </item><item>chicken </item><item>purse </item><item>glasses </item>
-        <item>blocks</item><item> carrot </item><item>turtle </item><item>pencil </item><item>horse </item><item>dinosaur </item><item>head </item><item>lamp </item>
+        <item>blocks</item><item> carrot </item><item>turtle </item><item>pencil </item><item>horse </item><item>dinosaur </item><item>head </item><item>lamp</item>
         <item>snowman </item><item>ant </item><item>giraffe </item><item>cupcake </item><item>chair </item><item>leaf </item><item>bunk </item><item>bed </item><item>snail </item>
         <item>baby</item><item> balloon </item><item>bus </item><item>cherry </item><item>crab </item><item>football </item><item>branch </item><item>robot</item>
         <item>horse</item><item> door </item><item>song </item><item>trip </item><item>backbone </item><item>bomb </item><item>round </item><item>
@@ -294,7 +294,7 @@
         potato </item><item>face </item><item>shark </item><item>fang </item><item>snowball </item><item>waist </item><item>
         spoon </item><item>gate </item><item>bottle </item><item>mail </item><item>sheep </item><item>lobster </item><item>ice </item><item>
         crib </item><item>lawn </item><item>mower bubble </item><item>seesaw </item><item>pencil </item><item>cheeseburger </item><item>hopscotch </item><item>
-        rocking </item><item>chair </item><item>corner </item><item>cheek </item><item>rolly </item><item>polly </item><item>popcorn </item><item>
+        rocking </item><item>chair </item><item>corner </item><item>cheek </item><item>rally </item><item>polly </item><item>popcorn </item><item>
         telephone </item><item>yo-yo</item><item> seahorse </item><item>snowflake </item><item>spine </item><item>desk</item><item>
         love</item><item> sweetheart </item><item>mailbox </item><item>dinner </item><item>rose</item><item>
         I love you</item><item>friendship </item><item>poems </item><item>card </item><item>lace </item><item>snow </item><item>Saint Valentine </item><item>
@@ -324,7 +324,7 @@
         Africa </item><item>tourist </item><item>island </item><item>lake </item><item>sunny </item><item>weather </item><item>airport </item><item>
         security </item><item>cruise </item><item>ship </item><item>Mexico </item><item>sleeping </item><item>
         bag </item><item>hotel </item><item>mountain </item><item>biking </item><item>Paris </item><item>road </item><item>
-        trip </item><item>Bermuda </item><item>Jamaica </item><item>Spain </item><item>snowboarding</item><item>Say "cheese"</item><item>
+        trip </item><item>Bermuda </item><item>Jamaica </item><item>Spain </item><item>snowboarding</item><item>
         map </item><item>trains </item><item>Alaska </item><item>camera </item><item>theme </item><item>park </item><item>national </item><item>park </item><item>
         tour </item><item>guide </item><item>relax </item><item>Delaware </item><item>airplane </item><item>bug </item><item>spray </item><item>scenery </item><item>
         layover </item><item>fanny </item><item>pack </item><item>river </item><item>rafting </item><item>beach </item><item>ball </item><item>kayak</item><item>
@@ -333,8 +333,7 @@
         Maine </item><item>bicycle </item><item>snow </item><item>cone </item><item>vacation </item><item>day </item><item>boardwalk </item><item>airline </item><item>
         lazy </item><item>Florida </item><item>Texas </item><item>South Dakota </item><item>Istanbul </item><item>the Grand Canyon</item><item>
         June </item><item>holiday </item><item>safari </item><item>Las Vegas </item><item>suitcase </item><item>Turkey </item><item>hang </item><item>glider </item><item>
-        first </item><item>class </item><item>condo </item><item>honeymoon </item><item>scuba </item><item>diving </item><item>China </item><item>
-        Africa </item><item>Italy </item><item>Hawaii </item><item>family </item><item>reunion </item><item>Scottland </item><item>London </item><item>
+        first </item><item>class </item><item>condo </item><item>honeymoon </item><item>scuba </item><item>diving </item><item>China </item><item>Italy </item><item>Hawaii </item><item>family </item><item>reunion </item><item>Scottland </item><item>London </item><item>
         backpacking </item><item>Ireland </item><item>California </item><item>Switzerland </item><item>July </item><item>Tokyo </item><item>
         Mount </item><item>Rushmore </item><item>coral </item><item>reef </item><item>summer </item><item>France</item><item>San Francisco</item><item>
         Athens </item><item>Vienna </item><item>England </item><item>Washington </item><item>money </item><item>belt</item><item> Los Angeles</item><item>
@@ -345,7 +344,7 @@
         three-toed</item><item> sloth </item><item>elk </item><item>fox </item><item>guinea </item><item>pig </item><item>sea </item><item>lion </item><item>donkey </item><item>
         frog </item><item>crow </item><item>zebra </item><item>toad </item><item>worm </item><item>panther </item><item>chinchilla </item><item>flock </item><item>chimpanzee </item><item>calf </item><item>school </item><item> fish </item><item>
         warthog </item><item>cub </item><item>seagull </item><item>parakeet </item><item>chicken </item><item>human </item><item>toucan </item><item>deer </item><item>
-        lobster </item><item>prairie </item><item>dog </item><item>dove </item><item>walrus </item><item>komodo </item><item>dragon </item><item>jellyfish </item><item>
+        lobster </item><item>prairie </item><item>dove </item><item>walrus </item><item>komodo </item><item>dragon </item><item>jellyfish </item><item>
         crab </item><item>tortoise </item><item>duckling </item><item>wasp </item><item>squirrel </item><item>wildebeest </item><item>catfish</item>
     </string-array>
 

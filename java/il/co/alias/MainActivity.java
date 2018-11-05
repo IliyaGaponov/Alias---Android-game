@@ -43,12 +43,9 @@ public class MainActivity extends AppCompatActivity {
         Button tutorialBtn = findViewById(R.id.tutorial_btn);
         languageIconsLinearLayout = findViewById(R.id.language_icons_layout);
         ImageView logoIv = findViewById(R.id.logo_iv);
-        ImageView shineIv = findViewById(R.id.shine_iv);
 
         Animation alphaAndRotateAnim = AnimationUtils.loadAnimation(this, R.anim.logo_anim);
-        Animation alphaShineAnim = AnimationUtils.loadAnimation(this, R.anim.shine_anim);
         logoIv.startAnimation(alphaAndRotateAnim);
-        shineIv.startAnimation(alphaShineAnim);
 
         englishLanguage.setOnClickListener(new View.OnClickListener() {
             @Override
